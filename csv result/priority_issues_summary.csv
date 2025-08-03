@@ -1,0 +1,17 @@
+﻿state,aspect,priority_score,count,kpi_target,kpi_action,expected_impact,common_keywords,mixed_count,negative_count,Neutral,positive_count,Unknown
+CA,Service,1.3608333333333331,13,CSAT ≥ 90%,Barista training,High,"['coffee', 'order', 'service', 'always', 'customer']",0,13,1,3,0
+CA,Unknown,1.306086956521739,28,Reduce Unknown 50%,LLM Deep Dive,Low,"['card', 'coffee', 'said', 'one', 'time']",7,21,0,3,1
+CA,Ambiance,1.2,1,Rating ≥ 4.5,Clean audits,Medium,"['lyrics', 'find', 'overhead', 'music', 'offensively']",0,1,0,0,0
+CA,Product,1.16,3,Score ≥ 4.2,Weekly QC,High,"['coffee', 'grinding', 'ordered', 'frappuccino', 'beans']",1,2,0,0,0
+CA,Price,1.12375,9,Score ≥ 4.0,Loyalty value packs,Medium,"['get', 'charged', 'coffee', 'asked', 'said']",2,7,0,0,0
+CA,Availability,0.71,2,≥ 98%,Stock coordination,Medium,"['coffee', 'loud', 'email', 'order', 'vallejo']",0,2,0,0,0
+FL,Product,1.71,2,Score ≥ 4.2,Weekly QC,High,"['drink', 'also', 'ordered', 'lacked', 'sugar']",1,1,0,1,0
+FL,Wait Time,1.65,1,Avg < 3.5min,Optimize schedule,High,"['tea', 'milk', 'thanks', 'store', 'roosevelt']",0,1,0,0,0
+FL,Service,1.3599999999999999,7,CSAT ≥ 90%,Barista training,High,"['drink', 'never', 'lady', 'drive', 'got']",0,7,0,3,0
+FL,Unknown,1.289090909090909,12,Reduce Unknown 50%,LLM Deep Dive,Low,"['card', 'account', 'went', 'got', 'one']",1,11,0,1,0
+FL,Price,1.1600000000000001,2,Score ≥ 4.0,Loyalty value packs,Medium,"['different', 'store', 'like', 'every', 'price']",0,2,0,0,0
+TX,Service,1.5433333333333332,3,CSAT ≥ 90%,Barista training,High,"['chase', 'got', 'rewards', 'time', 'today']",0,3,0,6,0
+TX,Product,1.435,2,Score ≥ 4.2,Weekly QC,High,"['couple', 'drink', 'got', 'red', 'velvet']",0,2,0,1,0
+TX,Unknown,1.4207692307692308,15,Reduce Unknown 50%,LLM Deep Dive,Low,"['coffee', 'store', 'get', 'one', 'back']",1,14,0,2,1
+TX,Price,1.21,2,Score ≥ 4.0,Loyalty value packs,Medium,"['coffee', 'frappuccino', 'strawberry', 'drinks', 'good']",0,2,0,0,0
+TX,Cleanliness,1.2,1,≥ 4.8,Enhanced cleaning,High,"['touching', 'hands', 'personnel', 'handling', 'multiple']",0,1,0,0,0
